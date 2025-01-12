@@ -21,7 +21,7 @@ function App() {
     
     <Routes>
       
-      <Route path="/" element={
+      <Route path="/personalPortfolio" element={
         <mainLayout>
           <Header />
       <main>
